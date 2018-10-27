@@ -9,5 +9,5 @@
 <body>
     <h1>Cannot recognize your request</h1>
     <h2>Видимо Мартин опять ломает лабу...</h2>
-    <p><a href="/GlassFish_war_exploded/lab2">Вернуться</a></p>
+    <p><a href="lab2">Вернуться</a></p>
 </body>

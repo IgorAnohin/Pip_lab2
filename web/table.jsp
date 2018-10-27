@@ -33,6 +33,6 @@
     %>
 </table>
 
-<p><a href="/GlassFish_war_exploded/lab2">Вернуться</a></p>
+<p><a href="lab2">Вернуться</a></p>
 
 </body>
